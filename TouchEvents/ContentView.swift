@@ -1,9 +1,6 @@
 //
 //  ContentView.swift
-//  TouchEvents
-//
 //  Created by GaliSrikanth on 23/04/25.
-//
 
 import SwiftUI
 
